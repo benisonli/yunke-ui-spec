@@ -12,6 +12,7 @@ A reusable UI specification package for Yunke CRM, based on:
 - `yunke-crm-design-spec.html` — HTML version
 - `yunke-crm-design-spec.pdf` — PDF version
 - `yunke-ant-design-token-mapping.md` — Ant Design token and component mapping
+- `yunke-ai-interaction-patterns.md` — Appendix C: AI interaction patterns (based on beautifului.dev research, mapped to Yunke tokens + AntD)
 - `yunke-uiuxpromax-prompt-template.md` — prompt template for UIUXProMax / AI page generation
 - `team-ready-summary.md` — concise team-ready summary
 - `source-images/` — source reference images
